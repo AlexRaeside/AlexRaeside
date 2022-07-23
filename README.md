@@ -5,10 +5,6 @@
 - I am hoping to use this space to deal with any ML weakspots that come up in my professional life
 - In time, I would like this git to contain breakdowns of various bioinfomatic pipelines that I find intreasting 
 - I'm also going to be using this git a plase to store development on any Godot projects I am working on
-- 👋 Hi, I’m @HelloPasta
-- 👀 I’m interested in anything to do with data science, bioinformatics, biology and making games with Godot (hobby)
-- 🌱 I’m currently learning some of my machine learning weakspots 
-- 💞️ I’m looking to collaborate on a godot game of any kind
 - 📫 How to reach me ... alexraeside@gmail.com
 
 <!---
