@@ -1,4 +1,4 @@
-# helloPasta
+# alexRaeside
 
 - Hi my name Alexander Raeside and bioinformatican working in industry using mostly R and python
 - As I work outside of acadmia, a lot less of the code I write will end up on a public repo so don't expect full packages with papers atteched
