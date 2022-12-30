@@ -6,7 +6,8 @@ in my git repo as bioinformatican working in academia. I've put togtheir a small
 project that combines python, R and linux to analyse single-read RNA-Seq.
 
 I've also got a small Rshiny app in the simple_shiny repo but I am currently
-focused on learning streamlit for webapps and quarto for report building.
+focused on learning streamlit for webapps and quarto for report building so don't expect any more
+rshiny apps for the time being.
 
 If you have any questions about my projects or suggestions about something else I should
 work on (currently working on a scRNA-Seq proejct) let me know at alexraeside@gmail.com
