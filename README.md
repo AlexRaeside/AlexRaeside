@@ -1,6 +1,8 @@
 # alexRaeside
 
-Hello if your finding this through my CV please check out the snakemake kaillisto repo. 
+Hello!
+
+If your finding this through my CV please check out the snakemake kaillisto repo. 
 Most of my work as a bioinformatican has been in industry so I do not have quite as much 
 in my git repo as bioinformatican working in academia. I've put togtheir a small snakemake
 project that combines python, R and linux to analyse single-read RNA-Seq.
